@@ -1,6 +1,8 @@
 # JAERO
 A SatCom ACARS demodulator and decoder for the Aero standard written in C++ Qt
 
+## x32 releases found under Releases
+
 ![](images/screenshot-win-main.png)
 
 This program demodulates and decodes ACARS messages sent from satellites to Aeroplanes (SatCom ACARS) commonly used when Aeroplanes are beyond VHF range. Demodulation is performed using the soundcard.
